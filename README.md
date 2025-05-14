@@ -1,2 +1,2 @@
 # OLA_Driver_Attrition_Prediction
-An ML Model based on ensemble learning that predicts the chances of driver churn at Ola, effectively helping the company minimize churn rate and improve operational stability.
+An ensemble-based machine learning model designed to accurately predict driver attrition at Ola, enabling proactive retention strategies to reduce churn and enhance operational efficiency.
